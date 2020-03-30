@@ -1,9 +1,8 @@
 //
-// Optimization with Caching
 // Unique Sort
 //
 
-// A simple sorting algorith that should not return any duplicate values in the sorted array.
+// A simple sorting algorithm that should not return any duplicate values in the sorted array.
 
 const uniqueSort = function(arr) {
   const breadcrumbs = {};
